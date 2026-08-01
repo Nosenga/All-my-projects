@@ -1,6 +1,6 @@
 <html>
   <header>
-    <h1>This is the branch contain the website link of the one I used the <link href="https://sites.google.com/view/mangaung-dance-performances/">project</link> link for</h1>
+    <h1>This is the branch contain the website link of the one I used the <a href="https://sites.google.com/view/mangaung-dance-performances/">project</a> link for</h1>
   </header>
   <section>
     <p>
