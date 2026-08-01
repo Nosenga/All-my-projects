@@ -1,4 +1,10 @@
-<strong>A Repository Containing All My Projects</strong>
-
-- Student Journaling App
-- Mangaung Community Dance Project
+<html>
+  <header>
+    <h1>This is the branch contain the website link of the one I used the <link href="https://sites.google.com/view/mangaung-dance-performances/">project</link> link for</h1>
+  </header>
+  <section>
+    <p>
+      And It also contains the files that were recorded during the lifecycle of the project
+    </p>
+  </section>
+</html>
